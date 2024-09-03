@@ -1,2 +1,2 @@
-# Codsoft_DS_Task_03
-The sales prediction task involves using historical sales data to forecast future sales. This typically includes data preprocessing, feature selection, and applying machine learning models like regression analysis to predict sales figures. The goal is to develop a model that accurately estimates future sales based on historical trends and patterns.
+# CODSOFT-INTERN-SALES-PREDICTION-USING-PYTHON
+Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.
